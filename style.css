@@ -1,0 +1,120 @@
+.bd-example {
+padding: 10px 0px;
+}
+
+.comb {
+color: black;
+}
+
+.naslov-sredina {
+padding: 10px 0px;
+text-align: center;
+}
+
+.usluge-sredina {
+text-align: center;
+}
+
+#usluge {
+background: blue;
+}
+
+.col-sm {
+text-align: center;
+}
+
+.card-title {
+text-align: left;
+}
+
+.card-body {
+background-color: #4169E1;
+}
+
+.img-usluge {
+width: 300px;
+height: auto;
+}
+
+.container-termin {
+margin: 10px 0px;
+padding: 10px 20px;
+background: #ADFF2F;
+max-width: 1139px;
+position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.col-7 {
+padding: 20px 0px;
+margin:0 auto;
+}
+
+.btn-primary {
+  width: 100px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  }
+
+.table {
+padding: 20px 0px;
+width: 50px;
+margin:0 auto;
+}
+
+.prvi-red-tablice {
+background: #1E90FF;
+}
+
+.tablica {
+background: white;
+max-width: 500px;
+text-align: center;
+margin:0 auto;
+}
+
+#praznici {
+text-align: left;
+}
+
+.accordion {
+max-width: 800px;
+position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#headingOne {
+background: #4169E1;
+}
+
+#headingTwo {
+background: #4169E1;
+}
+
+#headingThree {
+background: #4169E1;
+}
+
+.card-body{
+background: white;
+color: black;
+}
+
+.btn.btn-link {
+color: white
+}
+
+.container-faq {
+margin: 10px 0px;
+padding: 10px 20px;
+background:  	#87CEFA;
+max-width: 1139px;
+position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+
