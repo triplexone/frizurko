@@ -19,6 +19,13 @@ text-align: center;
 background: blue;
 }
 
+.row {
+max-width: 1300px;
+position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .col-sm {
 text-align: center;
 }
@@ -32,7 +39,7 @@ background-color: #4169E1;
 }
 
 .img-usluge {
-width: 300px;
+width: 100%;
 height: auto;
 }
 
@@ -40,7 +47,7 @@ height: auto;
 margin: 10px 0px;
 padding: 10px 20px;
 background: #ADFF2F;
-max-width: 1139px;
+max-width: 100%;
 position: relative;
   left: 50%;
   transform: translateX(-50%);
@@ -111,10 +118,27 @@ color: white
 margin: 10px 0px;
 padding: 10px 20px;
 background:  	#87CEFA;
-max-width: 1139px;
+max-width: 100%;
 position: relative;
   left: 50%;
   transform: translateX(-50%);
 }
 
+#logo-text {
+font-size: 50px;
+text-align: center;
+}
 
+#o-nama {
+background: #ff9999;
+}
+
+.img-logo {
+width: 100%;
+max-width: 250px;
+height: auto;
+}
+
+.about{
+text-align: left;
+}
